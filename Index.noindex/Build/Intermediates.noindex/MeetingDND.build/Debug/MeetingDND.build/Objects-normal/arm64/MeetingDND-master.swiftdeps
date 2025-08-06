@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "e06e9a2c2589053aa5ca966df4f8a2e1c49ac3a8f4dcc27cd8873d06cef8f47c"
+build_start_time: [1754054115, 837068000]
+build_end_time: [1754054116, 26010000]
+inputs:
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift": [1754054107, 929411718]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift": [1754054107, 927270197]
+  ? "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDND.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1754054111, 951249117]

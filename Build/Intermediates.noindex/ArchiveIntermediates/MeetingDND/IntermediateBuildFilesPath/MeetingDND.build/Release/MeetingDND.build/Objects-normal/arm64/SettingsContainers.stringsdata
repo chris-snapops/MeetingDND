@@ -1,0 +1,24 @@
+{
+  "source": "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/SettingsContainers.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "World!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

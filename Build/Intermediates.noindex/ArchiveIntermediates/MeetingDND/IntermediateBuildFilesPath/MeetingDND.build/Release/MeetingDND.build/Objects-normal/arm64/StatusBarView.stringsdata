@@ -1,0 +1,16 @@
+{
+  "source": "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/StatusBarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@: ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 11
+        }
+      }
+    ]
+  },
+  "version": 1
+}

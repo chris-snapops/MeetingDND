@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'MeetingDNDUITests' in project 'MeetingDND'
+➜ Explicit dependency on target 'MeetingDND' in project 'MeetingDND'
+Target 'MeetingDNDTests' in project 'MeetingDND'
+➜ Explicit dependency on target 'MeetingDND' in project 'MeetingDND'
+Target 'MeetingDND' in project 'MeetingDND' (no dependencies)

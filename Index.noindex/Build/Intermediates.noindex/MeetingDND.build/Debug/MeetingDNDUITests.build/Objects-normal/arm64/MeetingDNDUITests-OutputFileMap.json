@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDNDUITests.build/Objects-normal/arm64/MeetingDNDUITests-master.d",
+    "diagnostics" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDNDUITests.build/Objects-normal/arm64/MeetingDNDUITests-master.dia",
+    "emit-module-dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDNDUITests.build/Objects-normal/arm64/MeetingDNDUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDNDUITests.build/Objects-normal/arm64/MeetingDNDUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Index.noindex/Build/Intermediates.noindex/MeetingDND.build/Debug/MeetingDNDUITests.build/Objects-normal/arm64/MeetingDNDUITests-master.swiftdeps"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDNDUITests/MeetingDNDUITests.swift" : {
+
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDNDUITests/MeetingDNDUITestsLaunchTests.swift" : {
+
+  }
+}

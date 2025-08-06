@@ -1,0 +1,24 @@
+{
+  "source": "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "⚠️ Accessibility permission not granted",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Accessibility Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 53
+        }
+      }
+    ]
+  },
+  "version": 1
+}

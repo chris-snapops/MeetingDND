@@ -1,0 +1,50 @@
+{
+  "" : {
+    "const-values" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master.swiftconstvalues",
+    "dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master.d",
+    "diagnostics" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master.dia",
+    "emit-module-dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master-emit-module.dia",
+    "swift-dependencies" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDND-master.swiftdeps"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDNDApp.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDNDApp.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/MeetingDNDApp.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/AccessibilitySetup.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AccessibilitySetup.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AccessibilitySetup.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AccessibilitySetup.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/DNDUpdater.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/DNDUpdater.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/DNDUpdater.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/DNDUpdater.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/OpenCloseApps.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/OpenCloseApps.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/OpenCloseApps.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/OpenCloseApps.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/ZoomChecker.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ZoomChecker.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ZoomChecker.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/ZoomChecker.o"
+  },
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppSelectorView.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AppSelectorView.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AppSelectorView.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/AppSelectorView.o"
+  },
+  "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
