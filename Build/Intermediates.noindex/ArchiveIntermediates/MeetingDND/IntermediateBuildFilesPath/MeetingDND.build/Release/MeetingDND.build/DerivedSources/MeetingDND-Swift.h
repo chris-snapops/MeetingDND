@@ -310,6 +310,7 @@ SWIFT_CLASS("_TtC10MeetingDND11AppDelegate")
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 - (void)applicationDidFinishLaunching:(NSNotification * _Nonnull)notification;
 - (void)showMainWindow;
+- (void)showAboutWindow;
 - (void)quitApp;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -634,6 +635,7 @@ SWIFT_CLASS("_TtC10MeetingDND11AppDelegate")
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 - (void)applicationDidFinishLaunching:(NSNotification * _Nonnull)notification;
 - (void)showMainWindow;
+- (void)showAboutWindow;
 - (void)quitApp;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end

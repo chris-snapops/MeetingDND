@@ -4,18 +4,18 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "The applications below will quit/open when you enter or exit a meeting.",
+        "key": "",
         "location": {
-          "startingColumn": 30,
-          "startingLine": 133
+          "startingColumn": 16,
+          "startingLine": 101
         }
       },
       {
         "comment": "",
-        "key": "",
+        "key": "Define how applications will respond when you join or leave a meeting.",
         "location": {
-          "startingColumn": 36,
-          "startingLine": 161
+          "startingColumn": 22,
+          "startingLine": 251
         }
       }
     ]

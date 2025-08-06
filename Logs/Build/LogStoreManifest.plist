@@ -6,6 +6,174 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>33517A56-6830-4772-A74B-174173EA9222</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33517A56-6830-4772-A74B-174173EA9222.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776195714.93238497</real>
+			<key>timeStoppedRecording</key>
+			<real>776195718.399158</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>33517A56-6830-4772-A74B-174173EA9222</string>
+		</dict>
+		<key>34521F86-08D3-4C1D-AA32-4AD60515BE07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34521F86-08D3-4C1D-AA32-4AD60515BE07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776195394.48458195</real>
+			<key>timeStoppedRecording</key>
+			<real>776195402.46562803</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>34521F86-08D3-4C1D-AA32-4AD60515BE07</string>
+		</dict>
+		<key>37EDD5A8-B268-41D4-8E72-23C3A7624040</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37EDD5A8-B268-41D4-8E72-23C3A7624040.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776196268.25404799</real>
+			<key>timeStoppedRecording</key>
+			<real>776196270.52792501</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>37EDD5A8-B268-41D4-8E72-23C3A7624040</string>
+		</dict>
+		<key>4ADD99FB-636A-4DC1-98D8-D192EAA32E39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4ADD99FB-636A-4DC1-98D8-D192EAA32E39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776196278.61179101</real>
+			<key>timeStoppedRecording</key>
+			<real>776196280.662323</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>4ADD99FB-636A-4DC1-98D8-D192EAA32E39</string>
+		</dict>
 		<key>59B0381F-82F1-426D-82F1-91EDD5EDFB74</key>
 		<dict>
 			<key>className</key>
@@ -90,6 +258,48 @@
 			<key>uniqueIdentifier</key>
 			<string>B0CB636D-2149-4E03-9AD9-DF7482E5F9F8</string>
 		</dict>
+		<key>E2AF84E4-BA4A-4378-9CBC-0EFF8A733DA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2AF84E4-BA4A-4378-9CBC-0EFF8A733DA6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776195698.71330702</real>
+			<key>timeStoppedRecording</key>
+			<real>776195700.60174704</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>E2AF84E4-BA4A-4378-9CBC-0EFF8A733DA6</string>
+		</dict>
 		<key>EF8B3F9B-E2DD-4894-9FC8-5E2BBF1610EE</key>
 		<dict>
 			<key>className</key>
@@ -131,6 +341,48 @@
 			<string>Build MeetingDND</string>
 			<key>uniqueIdentifier</key>
 			<string>EF8B3F9B-E2DD-4894-9FC8-5E2BBF1610EE</string>
+		</dict>
+		<key>F656C73E-BDE6-417A-932D-E57C882944DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F656C73E-BDE6-417A-932D-E57C882944DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776195565.26140296</real>
+			<key>timeStoppedRecording</key>
+			<real>776195565.37522304</real>
+			<key>title</key>
+			<string>Build MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>F656C73E-BDE6-417A-932D-E57C882944DA</string>
 		</dict>
 	</dict>
 </dict>

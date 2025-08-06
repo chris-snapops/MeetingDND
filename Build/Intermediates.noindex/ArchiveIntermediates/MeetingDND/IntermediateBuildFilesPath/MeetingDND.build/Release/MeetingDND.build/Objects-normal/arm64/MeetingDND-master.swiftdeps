@@ -1,16 +1,17 @@
 version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
-options: "faf4a4f8ecba5efe9bd20f0492b66818dbe2e153ba27e09c03943bf9f11d63b4"
-build_start_time: [1754495597, 150762000]
-build_end_time: [1754495599, 705823000]
+options: "87556ae85d54d0e42fa5ef8155f44fd767e0ff84e51c1f441d832b7bccc053fb"
+build_start_time: [1754502596, 373068000]
+build_end_time: [1754502602, 449247000]
 inputs:
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift": [1754494631, 970630103]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift": [1754335870, 832667387]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift": [1754502389, 580917677]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift": [1754499695, 204709934]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/AccessibilitySetup.swift": [1754054425, 588698921]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/DNDUpdater.swift": [1754494429, 176484112]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/OpenCloseApps.swift": [1754153646, 484287081]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/ZoomChecker.swift": [1754106066, 468329725]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppSelectorView.swift": [1754335411, 956801493]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppDelegate.swift": [1754501774, 805624230]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppSelectorView.swift": [1754498882, 920733999]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/SettingsContainers.swift": [1754277277, 47303664]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/StatusBarView.swift": [1754494655, 335848373]
   ? "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/ArchiveIntermediates/MeetingDND/IntermediateBuildFilesPath/MeetingDND.build/Release/MeetingDND.build/DerivedSources/GeneratedAssetSymbols.swift"
-  : [1754495597, 143422316]
+  : [1754502596, 365524285]

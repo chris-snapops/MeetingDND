@@ -1,14 +1,17 @@
 version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
-options: "212e93faa3210225c22e5b4bb50a35d2f6ec1a023f63c92d1b3c88e9648a7abb"
-build_start_time: [1754094070, 9675000]
-build_end_time: [1754094073, 147799000]
+options: "049508af76e4bd8c3badf5ce06648202014381fc40344b14c9dec7c066eae19a"
+build_start_time: [1754503478, 712097000]
+build_end_time: [1754503480, 660184000]
 inputs:
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift": [1754094016, 110080501]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift": [1754092974, 773652332]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/ContentView.swift": [1754502389, 580917677]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/MeetingDNDApp.swift": [1754499695, 204709934]
   "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/AccessibilitySetup.swift": [1754054425, 588698921]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/DNDUpdater.swift": [1754062356, 762880841]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/OpenCloseApps.swift": [1754062452, 307607312]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/ZoomChecker.swift": [1754054398, 847516736]
-  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppSelectorView.swift": [1754093621, 588837070]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/DNDUpdater.swift": [1754494429, 176484112]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/OpenCloseApps.swift": [1754153646, 484287081]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/utils/ZoomChecker.swift": [1754106066, 468329725]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppDelegate.swift": [1754501774, 805624230]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/AppSelectorView.swift": [1754498882, 920733999]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/SettingsContainers.swift": [1754277277, 47303664]
+  "/Users/riipen/Desktop/xcode/MeetingDND/MeetingDND/views/StatusBarView.swift": [1754494655, 335848373]
   ? "/Users/riipen/Library/Developer/Xcode/DerivedData/MeetingDND-diikonogbkclanefzbxesqiiiznj/Build/Intermediates.noindex/MeetingDND.build/Release/MeetingDND.build/DerivedSources/GeneratedAssetSymbols.swift"
-  : [1754094070, 3787803]
+  : [1754503478, 706962414]
