@@ -67,6 +67,67 @@
 			<key>uniqueIdentifier</key>
 			<string>0B61D77B-9E2D-41CE-BE75-08286ED9F479</string>
 		</dict>
+		<key>16924B44-109F-4A3A-9B23-E1DCB110B359</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>22FA9A99-27A4-4F2E-85AD-A8EE7356DC81</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-24-44--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193884.85173595</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>16924B44-109F-4A3A-9B23-E1DCB110B359</string>
+		</dict>
 		<key>1CFAB5F0-2FAC-4178-B31B-A4A3451E27DE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -188,6 +249,67 @@
 			<string>Run MeetingDND</string>
 			<key>uniqueIdentifier</key>
 			<string>25412DE3-F097-4747-B76D-5B9CE33259BF</string>
+		</dict>
+		<key>2685E779-DA25-4FE3-9939-C001A9DF14EA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DB7A6B24-52C2-45FB-95E3-757C26A59030</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-07-46--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776192866.49737406</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>2685E779-DA25-4FE3-9939-C001A9DF14EA</string>
 		</dict>
 		<key>38B38109-B00C-4FB4-8EE2-EE8E66EAB4B5</key>
 		<dict>
@@ -494,6 +616,67 @@
 			<key>uniqueIdentifier</key>
 			<string>4B1D9097-9839-4340-83F2-423503C4C34D</string>
 		</dict>
+		<key>68705885-260E-4E1E-8683-A5C540C4FCBA</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5A93B4A8-ACD6-480F-B6F5-EF14BE68F077</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-23-23--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193803.40346897</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>68705885-260E-4E1E-8683-A5C540C4FCBA</string>
+		</dict>
 		<key>6A8C1AB2-AE01-41E3-B0BD-8A7469F030CB</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -676,6 +859,128 @@
 			<string>Run MeetingDND</string>
 			<key>uniqueIdentifier</key>
 			<string>6E620FBD-1D9B-49D3-8E5E-75A58D005270</string>
+		</dict>
+		<key>76BDE55E-C443-44F2-99CA-E7D06A177C51</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E90B0853-77D4-4E98-B2E1-E34F88C99B54</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-23-05--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193785.06651294</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>76BDE55E-C443-44F2-99CA-E7D06A177C51</string>
+		</dict>
+		<key>9C392EAA-FE1E-40AB-A177-74294CF4E898</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>27CDEC81-8782-45E1-AE55-32E3D6BE368E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-23-50--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193830.65064394</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>9C392EAA-FE1E-40AB-A177-74294CF4E898</string>
 		</dict>
 		<key>A088926F-B677-4902-86BF-C4C664FE489C</key>
 		<dict>
@@ -921,6 +1226,67 @@
 			<key>uniqueIdentifier</key>
 			<string>CAFE1031-4DB0-4C79-B038-372605CD9633</string>
 		</dict>
+		<key>D6168CE9-FE06-4305-B8FA-CCCF020CE172</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9C6B7D5F-47E2-40FC-B738-2B387D27227B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-26-40--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776194000.59713805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>D6168CE9-FE06-4305-B8FA-CCCF020CE172</string>
+		</dict>
 		<key>E311A303-4598-42C6-82F5-19193483AB5D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1042,6 +1408,128 @@
 			<string>Run MeetingDND</string>
 			<key>uniqueIdentifier</key>
 			<string>EA67F2E4-8ADB-4FB9-9F12-22C5CF2B2896</string>
+		</dict>
+		<key>EC66B57B-5AD9-4AC6-BE40-7F0497E91D9A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E2AB5BEE-C04F-4284-BD65-59A37D1A5DEE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-25-14--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193914.89783204</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>EC66B57B-5AD9-4AC6-BE40-7F0497E91D9A</string>
+		</dict>
+		<key>F8733624-A428-4589-B8CA-0DC79D144418</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>36012CD6-10FE-4F0B-8CF8-DFFBD47E014B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-MeetingDND-2025.08.06_13-24-57--0400.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MeetingDND project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MeetingDND</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MeetingDND</string>
+			<key>timeStartedRecording</key>
+			<real>776193897.83508694</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run MeetingDND</string>
+			<key>uniqueIdentifier</key>
+			<string>F8733624-A428-4589-B8CA-0DC79D144418</string>
 		</dict>
 	</dict>
 </dict>

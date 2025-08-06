@@ -4,10 +4,10 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Meetings DND",
+        "key": "MeetingDND",
         "location": {
           "startingColumn": 18,
-          "startingLine": 7
+          "startingLine": 15
         }
       },
       {
@@ -15,7 +15,7 @@
         "key": "Version 1.0",
         "location": {
           "startingColumn": 18,
-          "startingLine": 10
+          "startingLine": 18
         }
       },
       {
@@ -23,7 +23,7 @@
         "key": "Created by Chris Becher",
         "location": {
           "startingColumn": 18,
-          "startingLine": 32
+          "startingLine": 39
         }
       },
       {
@@ -31,20 +31,12 @@
         "key": "© 2025 SnapOps Inc. All rights reserved.",
         "location": {
           "startingColumn": 18,
-          "startingLine": 36
+          "startingLine": 43
         }
       },
       {
         "comment": "",
-        "key": "Meetings DND automatically manages Do Not Disturb & apps you choose when you join or leave Zoom meetings, helping you stay focused without interruptions.",
-        "location": {
-          "startingColumn": 22,
-          "startingLine": 16
-        }
-      },
-      {
-        "comment": "",
-        "key": "This app is open source under the MIT License.",
+        "key": "MeetingDND automatically manages Do Not Disturb & apps you choose when you join or leave Zoom meetings, helping you stay focused without interruptions.",
         "location": {
           "startingColumn": 22,
           "startingLine": 24
@@ -52,10 +44,18 @@
       },
       {
         "comment": "",
+        "key": "This app is open source under the MIT License.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
         "key": "View source on GitHub",
         "location": {
           "startingColumn": 22,
-          "startingLine": 25
+          "startingLine": 32
         }
       }
     ]
