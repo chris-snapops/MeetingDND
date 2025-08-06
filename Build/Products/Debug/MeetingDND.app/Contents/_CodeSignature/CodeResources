@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		sn9ANFBVMIU9ODzFWhmiml5lPtA=
+		GtazZZ213LT5/JHbIvzMPiifKDI=
 		</data>
 		<key>Resources/Disable DND.shortcut</key>
 		<data>
@@ -27,7 +27,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zg3kBylmDmQ2cSGqZ2El9moj208=
+			QWM3VEup+p4i8sZvKC+5rcWwFrE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "MeetingDND.debug" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: czbecher@icloud.com (MFS9V8AZMH)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -36,7 +36,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			I+1rh85wtvcgnSGu8IEUaH1hMps=
+			pjv1hDcFDCQ89wLvM/snNXsqFvI=
 			</data>
 			<key>requirement</key>
 			<string>identifier "__preview" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: czbecher@icloud.com (MFS9V8AZMH)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -52,7 +52,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WP2gdt5r3SpBEyMlMumgdnxdxEA451ZxZubz8slAif4=
+			6icfnPtI2VEcoMqD4b8sWYno2tKMqIfzDkpD4ybyGFQ=
 			</data>
 		</dict>
 		<key>Resources/Disable DND.shortcut</key>
